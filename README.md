@@ -3,7 +3,7 @@ This repository contains the _numerical data_ corresponding to the results prese
 "Probing new physics scenarios using high energy events at the NOvA far detector". [arXiv:2506.04984](https://arxiv.org/abs/2506.04984)
 
 In this study, we investigate the impact of the high energy (HE) neutrino events on the
-sensitivity of the experiment to constrain the off-diagonal NSI parameters (𝜖_𝑒𝜇 and
+sensitivity of the NOvA experiment to constrain the off-diagonal NSI parameters (𝜖_𝑒𝜇 and
 𝜖_𝑒𝜏) and decoherence parameter Γ. In this regard, we analyze the HE simulated events (1 < 𝐸_𝜈 < 20 GeV) observed
 in NuMI Off-axis 𝜈𝑒 Appearance (NOvA) experiment assuming the presence of 𝜖_𝑒𝜇
 and 𝜖_𝑒𝜏 , one at a time. We analyze the degeneracy observed in the 𝜖_𝑒𝜏 including
