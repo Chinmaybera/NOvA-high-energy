@@ -13,6 +13,6 @@ of signal versus beam background events in removing this degeneracy. Further, we
 the uncertainty in the determination of 𝜃_23 parameter in the presence of decoherence
 using NOvA analysis window 1 < 𝐸_𝜈 < 5 GeV and 1 < 𝐸_𝜈 < 20 GeV.
 
-The numerical data are provided in folders used to obtain figures and tables in our paper. Additional details can be found in the Readme file within each folder.
+The numerical data are provided in folders used to obtain results in our paper. Additional details can be found in the Readme file within each folder.
 
 If these results are useful in your work, please cite the following paper: Chinmay Bera, K. N. Deepthi, _Probing new physics scenarios using high energy events at the NOvA far detector_. For citation please use the LaTeX or BibTeX entries provided by INSPIRE [link here](https://inspirehep.net/literature/2930008), then click on cite.
