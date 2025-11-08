@@ -7,7 +7,7 @@ sensitivity of the experiment to constrain the off-diagonal NSI parameters (𝜖
 𝜖_𝑒𝜏) and decoherence parameter Γ. In this regard, we analyze the HE simulated events (1 < 𝐸_𝜈 < 20 GeV) observed
 in NuMI Off-axis 𝜈𝑒 Appearance (NOvA) experiment assuming the presence of 𝜖_𝑒𝜇
 and 𝜖_𝑒𝜏 , one at a time. We analyze the degeneracy observed in the 𝜖_𝑒𝜏 including
-events from 1 < 𝐸 𝜈 < 5 GeV and show that it gets removed once we include HE
+events from 1 < 𝐸_𝜈 < 5 GeV and show that it gets removed once we include HE
 events (signal + background) from 1 < 𝐸_𝜈 < 20 GeV. Further, we examine the role
 of signal versus beam background events in removing this degeneracy. Further, we comparatively investigate
 the uncertainty in the determination of 𝜃_23 parameter in the presence of decoherence
